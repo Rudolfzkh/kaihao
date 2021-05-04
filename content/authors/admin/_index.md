@@ -38,6 +38,3 @@ highlight_name: true
 ---
 Kaihao Zhang is currently a postdoctoral associate in the Mechanosynthesis Group at the Massachusetts Institute of Technology, working with Prof. John Hart. He earned his M.S. and Ph.D. both in Mechanical Engineering from the University of Illinois Urbana Champaign, where he was advised by Prof. Sameh Tawfick, and undergraduate degree in Energy and Environment System Engineering from Zhejiang University. His doctoral research focused on rapid graphene synthesis and graphene-metal interface engineering for high performance graphene-based nanocomposites. His current research involves metal additive manufacturing and advanced 2D materials synthesis. 
 
-
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
