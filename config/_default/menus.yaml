@@ -8,7 +8,7 @@ main:
     url: '#about'
     weight: 10
   - name: Publication
-    url: '#publications'
+    url: '#my-widget-123'
     weight: 20
   - name: Talks
     url: '#talks'
@@ -17,7 +17,7 @@ main:
     url: '#projects'
     weight: 40
   - name: News
-    url: '#news'
+    url: '#posts'
     weight: 50
   - name: Contact
     url: '#contact'
