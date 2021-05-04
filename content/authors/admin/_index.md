@@ -25,13 +25,13 @@ education:
   courses:
     - course: PhD in Mechanical Engineering
       institution: University of Illinois Urbana Champaign
-      year: 2019
+      year: ""
     - course: MS in Mechanical Engineering
       institution: University of Illinois Urbana Champaign
-      year: 2015
+      year: -1
     - course: "BEng in Energy and Environment System Engineering "
       institution: Zhejiang University
-      year: 2010
+      year: -2
 email: kaihao@mit.edu
 superuser: true
 highlight_name: true
