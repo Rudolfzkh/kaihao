@@ -1,7 +1,7 @@
 ---
 title: Kaihao Zhang
 role: ""
-avatar_filename: dsc02775.jpg
+avatar_filename: avatar.jpg
 bio: My research interests focus on metal additive manufacturing, metal matrix
   composites, nanomaterials.
 interests: []
