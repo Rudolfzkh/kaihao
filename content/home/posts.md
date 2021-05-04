@@ -1,6 +1,6 @@
 ---
 widget: pages
-widget_id: Recent-posts
+widget_id: News
 headless: true
 weight: 60
 title: News
