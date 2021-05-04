@@ -3,6 +3,7 @@ widget: pages
 widget_id: Publications
 headless: true
 weight: 50
+title: Publications
 active: true
 design:
   columns: "2"
