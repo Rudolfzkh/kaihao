@@ -8,5 +8,5 @@ active: true
 author: admin
 design:
   background:
-    image: /assets/media/个人照片-张楷浩.jpg
+    image: ""
 ---
