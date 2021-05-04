@@ -13,9 +13,7 @@ design:
 ---
 **2021**
 
-1. ![](/assets/media/dpe-melt.png)
-
-   H. Merrow, J.D. Beroz, **K.H. Zhang**, U.P. Muecke, A.J. Hart. "[Digital metal printing by electrohydrodynamic ejection and in-flight melting of microparticles](https://www.sciencedirect.com/science/article/abs/pii/S2214860420310757)." ***Additive Manufacturing***, 37, 2021.
+1. H. Merrow, J.D. Beroz, **K.H. Zhang**, U.P. Muecke, A.J. Hart. "[Digital metal printing by electrohydrodynamic ejection and in-flight melting of microparticles](https://www.sciencedirect.com/science/article/abs/pii/S2214860420310757)." ***Additive Manufacturing***, 37, 2021.
 
 **2020**
 
