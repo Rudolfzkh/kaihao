@@ -4,7 +4,8 @@ role: ""
 avatar_filename: dsc02775.jpg
 bio: My research interests focus on metal additive manufacturing, metal matrix
   composites, nanomaterials.
-interests: []
+interests:
+  - MetalAdditveManufacturing;MetalMatrixComposites
 social:
   - icon: envelope
     icon_pack: fas
