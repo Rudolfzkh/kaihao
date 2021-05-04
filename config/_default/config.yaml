@@ -71,6 +71,6 @@ related:
   toLower: true
   indices:
     - name: tags
-      weight: 100
+      weight: 130 #100
     - name: categories
-      weight: 70
+      weight: 40 #70
