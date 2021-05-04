@@ -1,6 +1,6 @@
 ---
 title: Kaihao Zhang
-role: ""
+role: Postdoctoral Associate
 avatar_filename: avatar.jpg
 bio: My research interests focus on metal additive manufacturing, metal matrix
   composites, nanomaterials.
