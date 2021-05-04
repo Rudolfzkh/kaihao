@@ -28,10 +28,10 @@ education:
       year: ""
     - course: MS in Mechanical Engineering
       institution: University of Illinois Urbana Champaign
-      year: -1
+      year: ""
     - course: "BEng in Energy and Environment System Engineering "
       institution: Zhejiang University
-      year: -2
+      year: ""
 email: kaihao@mit.edu
 superuser: true
 highlight_name: true
