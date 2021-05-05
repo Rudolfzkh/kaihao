@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Experience
+title: Academic Experience
 subtitle:
 
 # Date format for experience
@@ -22,28 +22,27 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
+  - title: Postdoc Associate
+    company: Massachusetts Institute of Technology
+    company_url: 'www.mit.edu'
     company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    location: Cambridge, MA
+    date_start: '2019-10'
     date_end: ''
     description: |2-
-        Responsibilities include:
+        Research focus:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Metal Additive Manufacturing
+        * Interfacial Synthesis of Graphene on Dielectrics
         
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+ # - title: 
+ #   company: University X
+ #   company_url: ''
+ #   company_logo: org-x
+ #   location: California
+ #   date_start: '2016-01-01'
+ #   date_end: '2020-12-31'
+ #   description: Taught electronic engineering and researched semiconductor physics.
 
 design:
   columns: '2'
