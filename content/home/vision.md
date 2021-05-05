@@ -2,7 +2,7 @@
 widget: pages
 widget_id: Vision
 headless: true
-weight: 10
+weight: 30
 title: Vision
 active: true
 design:
