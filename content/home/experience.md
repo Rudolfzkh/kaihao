@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: Postdoc Associate
     company: Massachusetts Institute of Technology
-    company_url: ''
+    company_url: 'https://www.mit.edu'
     company_logo: org-gc
     location: Cambridge, MA
     date_start: '2019-10'
@@ -35,14 +35,14 @@ experience:
         * Metal Additive Manufacturing
         * Interfacial Synthesis of Graphene on Dielectrics
         
- # - title: 
- #   company: University X
- #   company_url: ''
- #   company_logo: org-x
- #   location: California
- #   date_start: '2016-01-01'
- #   date_end: '2020-12-31'
- #   description: Taught electronic engineering and researched semiconductor physics.
+  - title: 
+    company: University X
+    company_url: ''
+    company_logo: org-x
+    location: California
+    date_start: '2016-01-01'
+    date_end: '2020-12-31'
+    description: Taught electronic engineering and researched semiconductor physics.
 
 design:
   columns: '2'
