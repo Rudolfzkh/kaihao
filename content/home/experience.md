@@ -29,11 +29,8 @@ experience:
     location: Cambridge, MA
     date_start: '2019-10'
     date_end: ''
-    description: |2-
-        Research focus:
-        
-        * Metal Additive Manufacturing
-        * Interfacial Synthesis of Graphene on Dielectrics
+    description: 
+
         
   - title: 
     company: University X
