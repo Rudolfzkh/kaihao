@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: Postdoc Associate
     company: Massachusetts Institute of Technology
-    company_url: 'https://www.mit.edu'
+    company_url: ''
     company_logo: org-gc
     location: Cambridge, MA
     date_start: '2019-10'
