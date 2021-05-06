@@ -4,7 +4,7 @@ role: Postdoctoral Associate
 avatar_filename: avatar.jpg
 bio: My research interests focus on metal additive manufacturing, metal matrix
   composites, nanomaterials.
-interests: []
+interests: [Metal Additive Manufacturing, Metal Matrix Composites, Nanomaterials]
 social:
   - icon: envelope
     icon_pack: fas
