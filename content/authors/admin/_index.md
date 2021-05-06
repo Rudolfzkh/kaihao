@@ -4,7 +4,8 @@ role: Postdoctoral Associate
 avatar_filename: avatar.jpg
 bio: My research interests focus on metal additive manufacturing, metal matrix
   composites, nanomaterials.
-interests: []
+interests:
+  - "123"
 social:
   - icon: envelope
     icon_pack: fas
@@ -36,4 +37,4 @@ email: kaihao@mit.edu
 superuser: true
 highlight_name: true
 ---
-**Kaihao Zhang** is currently a postdoctoral associate in the Mechanosynthesis Group at the Massachusetts Institute of Technology, working with Prof. John Hart. He earned his M.S. and Ph.D. both in Mechanical Engineering from the University of Illinois Urbana Champaign, where he was advised by Prof. Sameh Tawfick, and undergraduate degree in Energy and Environment System Engineering from Zhejiang University. His doctoral research focused on **rapid graphene synthesis** and **graphene-metal interface engineering** for high performance graphene-based nanocomposites. His current research involves **metal additive manufacturing**, **metal matrix composites**, and **advanced 2D materials synthesis**.
+**Kaihao Zhang** is currently a postdoctoral associate in the Mechanosynthesis Group at the Massachusetts Institute of Technology, working with Prof. [John Hart](https://mechanosynthesis.mit.edu/). He earned his M.S. and Ph.D. both in Mechanical Engineering from the University of Illinois Urbana Champaign, where he was advised by Prof. [Sameh Tawfick](https://tawfick.mechse.illinois.edu/), and undergraduate degree in Energy and Environment System Engineering from Zhejiang University. His doctoral research focused on **rapid graphene synthesis** and **graphene-metal interface engineering** for high performance graphene-based nanocomposites. His current research involves **metal additive manufacturing**, **metal matrix composites**, and **advanced 2D materials synthesis**.
